@@ -1,5 +1,5 @@
 # About
-- Site Reliability Engineer, Infrastructure Engineer, Programer
+- Site Reliability Engineer, Infrastructure Engineer, Software Engineer
 
 
 # Contact
